@@ -24,5 +24,5 @@ Server_API可以直接放入whmcs的根目录,当时SQL文件需要覆盖Unlimit
 ## 参考
 [原文](www.seeull.com/archives/78.html)
 [UnlimitedSocks](https://github.com/SmRiley/accelerator)
-[Windows下全局流量转发的代理应用于实现](https://www.seeull.com/archives/314.html "Windows下全局流量转发的代理应用于实现")
+[Windows下全局流量转发的应用于实现](https://www.seeull.com/archives/314.html "Windows下全局流量转发的代理应用于实现")
 [Node-Tap](https://github.com/Srar/node-tap "Node-Tap")
