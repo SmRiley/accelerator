@@ -1,13 +1,28 @@
 ### 声明
-首先这个是我写了很久但是最后弃用的一套项目,我后续不太会去更新它,客户端大概有95%的完成度,如果有能力可以直接搭建服务端商用即可.服务端建议使用whmcs部署,用户信息的获取可以使用Cookie或者自己手写MySQL查询插件,软件更新的话可以参考[软件更新实例](https://www.sauyoo.com/archives/18.html "软件更新实例")
-这个项目是我刚开始学习C#的成果,所以有些写法略显幼稚,包括某些注释也不是很完整,但是总体还是不算复杂,可读性还可以,大佬轻喷.
-仅供参考和学习,请勿用于违法用途.
+此项目为练手但是最后弃用的一套项目,客户端大概有80%的完成度,并不能直接部署.
+
+服务端建议使用whmcs部署,用户信息的获取可以使用Cookie或者自己手写MySQL查询插件,最初预设的打算使用Whmcs+UnlimitedSocks的方式
+
+Server_API可以直接放入whmcs的根目录,当时SQL文件需要覆盖UnlimitedSocks的SQL.
+
+软件更新的话可以参考[软件更新实例](https://www.seeull.com/archives/18.html "软件更新实例")
+
+由于项目是我刚开始学习C#的成果,所以代码写法略显幼稚,包括某些注释也不是很完整,所以仅供学习参考.
+
+
 ### 截图:
 
-![登录](https://cdn.sauyoo.com/2020/01/27/1580115884.jpg)
+![登录](https://raw.githubusercontent.com/SmRiley/Imgs/master/accelerator/1584251632.png)
 
-![用户信息](https://cdn.sauyoo.com/2020/01/27/1580115895.jpg)
+![用户信息](https://raw.githubusercontent.com/SmRiley/Imgs/master/accelerator/1584251647.png)
 
-![服务器列表](https://cdn.sauyoo.com/2020/01/27/1580115904.jpg)
+![服务器列表](https://raw.githubusercontent.com/SmRiley/Imgs/master/accelerator/1584251665.png)
 
-![服务器列表](https://cdn.sauyoo.com/2020/01/27/1580115905.jpg)
+![服务器列表](https://raw.githubusercontent.com/SmRiley/Imgs/master/accelerator/1584251679.png)
+
+
+## 参考
+[原文](www.seeull.com/archives/78.html)
+[UnlimitedSocks](https://github.com/SmRiley/accelerator)
+[Windows下全局流量转发的代理应用于实现](https://www.seeull.com/archives/314.html "Windows下全局流量转发的代理应用于实现")
+[Node-Tap](https://github.com/Srar/node-tap "Node-Tap")

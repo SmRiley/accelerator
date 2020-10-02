@@ -53,3 +53,4 @@ C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Debug\SauYoo.csproj.Gen
 C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Debug\SauYoo.csproj.CopyComplete
 C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Debug\SauYoo.exe
 C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Debug\SauYoo.pdb
+C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Debug\SauYoo.csproj.CoreCompileInputs.cache

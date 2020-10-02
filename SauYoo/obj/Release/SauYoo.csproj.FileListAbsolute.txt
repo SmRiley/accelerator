@@ -36,3 +36,4 @@ C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Release\SauYoo.csproj.G
 C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Release\SauYoo.csproj.CopyComplete
 C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Release\SauYoo.exe
 C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Release\SauYoo.pdb
+C:\Users\SmRiley\OneDrive\source\repos\SauYoo\SauYoo\obj\Release\SauYoo.csproj.CoreCompileInputs.cache

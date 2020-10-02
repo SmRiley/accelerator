@@ -67,7 +67,7 @@ namespace SauYoo
         /// 获取服务器信息
         /// </summary>
         public void get_Servers_Info() {
-           /* Servers_IP = Common.Servers_Info[2];           
+            Servers_IP = Common.Servers_Info[2];           
             int i = 0;
             foreach (string Server_Region in Common.Servers_Info[1])
             {
@@ -101,7 +101,7 @@ namespace SauYoo
                 i++;
             }
             //获取完成,设置默认IP
-            Servers_Change(0);*/
+            Servers_Change(0);
         }
 
         /// <summary>
