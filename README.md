@@ -7,7 +7,7 @@ Server_API可以直接放入whmcs的根目录,当时SQL文件需要覆盖Unlimit
 
 软件更新的话可以参考[软件更新实例](https://www.seeull.com/archives/18.html "软件更新实例")
 
-由于项目是我刚开始学习C#的成果,所以代码写法略显幼稚,包括某些注释也不是很完整,所以仅供学习参考.
+由于项目是我刚开始学习C#的实践,所以代码写法略显幼稚,包括某些注释也不是很完整,但是界面上花了不少心思,界面是仿的国内的XX加速器.
 
 
 ### 截图:
@@ -24,5 +24,5 @@ Server_API可以直接放入whmcs的根目录,当时SQL文件需要覆盖Unlimit
 ## 参考
 1. [原文](www.seeull.com/archives/78.html)
 2. [UnlimitedSocks](https://github.com/SmRiley/accelerator)
-3. [Windows下全局流量转发的应用于实现](https://www.seeull.com/archives/314.html "Windows下全局流量转发的代理应用于实现")
+3. [Windows下全局流量转发的应用与实现](https://www.seeull.com/archives/314.html "Windows下全局流量转发的应用与实现")
 4. [Node-Tap](https://github.com/Srar/node-tap "Node-Tap")
